@@ -10,7 +10,7 @@ import timeManagement from '../../assets/portfolio-6.png';
 const Works = () => {
     return (
       <section id="works">
-        <h2 className="worksTitle">My Portifolio</h2>
+        <h2 className="worksTitle">My Portfolio</h2>
         <span className="worksDesc">I take pride in paying attention to make the samllest details and making sure that my work is pixel perfect.I am excited to bring my skills and experinece to help business acheive their goals and create a strong online presenece</span>
         <div className="worksImgs">
             <img src={collaboration} alt="" className="worksImg" />
