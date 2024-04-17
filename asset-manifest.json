@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/atya_Sai_Portifolio.io/static/css/main.1d53c089.css",
+    "main.js": "/atya_Sai_Portifolio.io/static/js/main.e01f6650.js",
+    "static/media/clifton-logo.jpg": "/atya_Sai_Portifolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
+    "static/media/bg.jpg": "/atya_Sai_Portifolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
+    "static/media/portfolio-6.png": "/atya_Sai_Portifolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/atya_Sai_Portifolio.io/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/atya_Sai_Portifolio.io/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/atya_Sai_Portifolio.io/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/atya_Sai_Portifolio.io/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/atya_Sai_Portifolio.io/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/mitsubishi.png": "/atya_Sai_Portifolio.io/static/media/mitsubishi.aae0b6602294fb37b3b0.png",
+    "static/media/uiDesign.png": "/atya_Sai_Portifolio.io/static/media/uiDesign.889fc23e3c2b44685b04.png",
+    "static/media/nokia.png": "/atya_Sai_Portifolio.io/static/media/nokia.aff90ca56c314f31d6f9.png",
+    "static/media/Atos.png": "/atya_Sai_Portifolio.io/static/media/Atos.8a83367556c0deabeffb.png",
+    "static/media/webDesign.png": "/atya_Sai_Portifolio.io/static/media/webDesign.f721d6300da36dde4a81.png",
+    "static/media/logo.png": "/atya_Sai_Portifolio.io/static/media/logo.e42635d2e1a0cb2f7853.png",
+    "static/media/instagram.png": "/atya_Sai_Portifolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/atya_Sai_Portifolio.io/index.html",
+    "main.1d53c089.css.map": "/atya_Sai_Portifolio.io/static/css/main.1d53c089.css.map",
+    "main.e01f6650.js.map": "/atya_Sai_Portifolio.io/static/js/main.e01f6650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d53c089.css",
+    "static/js/main.e01f6650.js"
+  ]
+}
