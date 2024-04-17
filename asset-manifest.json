@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satya_Sai_Portifolio.io/static/css/main.1d53c089.css",
-    "main.js": "/Satya_Sai_Portifolio.io/static/js/main.756f20be.js",
+    "main.js": "/Satya_Sai_Portifolio.io/static/js/main.6422b8a0.js",
     "static/media/clifton-logo.jpg": "/Satya_Sai_Portifolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
     "static/media/bg.jpg": "/Satya_Sai_Portifolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
     "static/media/portfolio-6.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
@@ -16,13 +16,14 @@
     "static/media/Atos.png": "/Satya_Sai_Portifolio.io/static/media/Atos.8a83367556c0deabeffb.png",
     "static/media/webDesign.png": "/Satya_Sai_Portifolio.io/static/media/webDesign.f721d6300da36dde4a81.png",
     "static/media/logo.png": "/Satya_Sai_Portifolio.io/static/media/logo.e42635d2e1a0cb2f7853.png",
+    "static/media/SAP.png": "/Satya_Sai_Portifolio.io/static/media/SAP.a63efdc07e55d5b621bb.png",
     "static/media/instagram.png": "/Satya_Sai_Portifolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Satya_Sai_Portifolio.io/index.html",
     "main.1d53c089.css.map": "/Satya_Sai_Portifolio.io/static/css/main.1d53c089.css.map",
-    "main.756f20be.js.map": "/Satya_Sai_Portifolio.io/static/js/main.756f20be.js.map"
+    "main.6422b8a0.js.map": "/Satya_Sai_Portifolio.io/static/js/main.6422b8a0.js.map"
   },
   "entrypoints": [
     "static/css/main.1d53c089.css",
-    "static/js/main.756f20be.js"
+    "static/js/main.6422b8a0.js"
   ]
 }
