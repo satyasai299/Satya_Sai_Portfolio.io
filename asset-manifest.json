@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Satya_Sai_Portifolio.io/static/css/main.83b276e6.css",
-    "main.js": "/Satya_Sai_Portifolio.io/static/js/main.d7fc1218.js",
-    "static/media/clifton-logo.jpg": "/Satya_Sai_Portifolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
-    "static/media/bg.jpg": "/Satya_Sai_Portifolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
-    "static/media/portfolio-6.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/Satya_Sai_Portifolio.io/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/mitsubishi.png": "/Satya_Sai_Portifolio.io/static/media/mitsubishi.aae0b6602294fb37b3b0.png",
-    "static/media/uiDesign.png": "/Satya_Sai_Portifolio.io/static/media/uiDesign.889fc23e3c2b44685b04.png",
-    "static/media/nokia.png": "/Satya_Sai_Portifolio.io/static/media/nokia.aff90ca56c314f31d6f9.png",
-    "static/media/Atos.png": "/Satya_Sai_Portifolio.io/static/media/Atos.8a83367556c0deabeffb.png",
-    "static/media/webDesign.png": "/Satya_Sai_Portifolio.io/static/media/webDesign.f721d6300da36dde4a81.png",
-    "static/media/logo.png": "/Satya_Sai_Portifolio.io/static/media/logo.e42635d2e1a0cb2f7853.png",
-    "static/media/SAP.png": "/Satya_Sai_Portifolio.io/static/media/SAP.a63efdc07e55d5b621bb.png",
-    "static/media/instagram.png": "/Satya_Sai_Portifolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/Satya_Sai_Portifolio.io/index.html",
-    "main.83b276e6.css.map": "/Satya_Sai_Portifolio.io/static/css/main.83b276e6.css.map",
-    "main.d7fc1218.js.map": "/Satya_Sai_Portifolio.io/static/js/main.d7fc1218.js.map"
+    "main.css": "/Satya_Sai_Portfolio.io/static/css/main.83b276e6.css",
+    "main.js": "/Satya_Sai_Portfolio.io/static/js/main.08271d52.js",
+    "static/media/clifton-logo.jpg": "/Satya_Sai_Portfolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
+    "static/media/bg.jpg": "/Satya_Sai_Portfolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
+    "static/media/portfolio-6.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/mitsubishi.png": "/Satya_Sai_Portfolio.io/static/media/mitsubishi.aae0b6602294fb37b3b0.png",
+    "static/media/uiDesign.png": "/Satya_Sai_Portfolio.io/static/media/uiDesign.889fc23e3c2b44685b04.png",
+    "static/media/nokia.png": "/Satya_Sai_Portfolio.io/static/media/nokia.aff90ca56c314f31d6f9.png",
+    "static/media/Atos.png": "/Satya_Sai_Portfolio.io/static/media/Atos.8a83367556c0deabeffb.png",
+    "static/media/webDesign.png": "/Satya_Sai_Portfolio.io/static/media/webDesign.f721d6300da36dde4a81.png",
+    "static/media/logo.png": "/Satya_Sai_Portfolio.io/static/media/logo.e42635d2e1a0cb2f7853.png",
+    "static/media/SAP.png": "/Satya_Sai_Portfolio.io/static/media/SAP.a63efdc07e55d5b621bb.png",
+    "static/media/instagram.png": "/Satya_Sai_Portfolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Satya_Sai_Portfolio.io/index.html",
+    "main.83b276e6.css.map": "/Satya_Sai_Portfolio.io/static/css/main.83b276e6.css.map",
+    "main.08271d52.js.map": "/Satya_Sai_Portfolio.io/static/js/main.08271d52.js.map"
   },
   "entrypoints": [
     "static/css/main.83b276e6.css",
-    "static/js/main.d7fc1218.js"
+    "static/js/main.08271d52.js"
   ]
 }
