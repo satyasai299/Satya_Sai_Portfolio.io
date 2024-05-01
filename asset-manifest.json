@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satya_Sai_Portfolio.io/static/css/main.6dc37a77.css",
-    "main.js": "/Satya_Sai_Portfolio.io/static/js/main.b525b029.js",
+    "main.js": "/Satya_Sai_Portfolio.io/static/js/main.f9501645.js",
     "static/media/clifton-logo.jpg": "/Satya_Sai_Portfolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
     "static/media/bg.jpg": "/Satya_Sai_Portfolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
     "static/media/portfolio-6.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
@@ -22,10 +22,10 @@
     "static/media/instagram.png": "/Satya_Sai_Portfolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Satya_Sai_Portfolio.io/index.html",
     "main.6dc37a77.css.map": "/Satya_Sai_Portfolio.io/static/css/main.6dc37a77.css.map",
-    "main.b525b029.js.map": "/Satya_Sai_Portfolio.io/static/js/main.b525b029.js.map"
+    "main.f9501645.js.map": "/Satya_Sai_Portfolio.io/static/js/main.f9501645.js.map"
   },
   "entrypoints": [
     "static/css/main.6dc37a77.css",
-    "static/js/main.b525b029.js"
+    "static/js/main.f9501645.js"
   ]
 }
