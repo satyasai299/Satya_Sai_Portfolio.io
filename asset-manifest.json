@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satya_Sai_Portfolio.io/static/css/main.6dc37a77.css",
-    "main.js": "/Satya_Sai_Portfolio.io/static/js/main.e9caad0e.js",
+    "main.js": "/Satya_Sai_Portfolio.io/static/js/main.b525b029.js",
     "static/media/clifton-logo.jpg": "/Satya_Sai_Portfolio.io/static/media/clifton-logo.91fd0cf0e438dbad7330.jpg",
     "static/media/bg.jpg": "/Satya_Sai_Portfolio.io/static/media/bg.10b032125fe849bd32ff.jpg",
     "static/media/portfolio-6.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-6.4a10fac7d271e87859e9.png",
@@ -10,7 +10,7 @@
     "static/media/portfolio-1.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-1.b33adf772d54ab33e953.png",
     "static/media/portfolio-5.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
     "static/media/portfolio-3.png": "/Satya_Sai_Portfolio.io/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/satya_sai_resume.pdf": "/Satya_Sai_Portfolio.io/static/media/satya_sai_resume.4dc44029704cb6ef5593.pdf",
+    "static/media/Satya_Sai_Resume.pdf": "/Satya_Sai_Portfolio.io/static/media/Satya_Sai_Resume.30af1f5fcffca08996ec.pdf",
     "static/media/mitsubishi.png": "/Satya_Sai_Portfolio.io/static/media/mitsubishi.aae0b6602294fb37b3b0.png",
     "static/media/uiDesign.png": "/Satya_Sai_Portfolio.io/static/media/uiDesign.889fc23e3c2b44685b04.png",
     "static/media/nokia.png": "/Satya_Sai_Portfolio.io/static/media/nokia.aff90ca56c314f31d6f9.png",
@@ -22,10 +22,10 @@
     "static/media/instagram.png": "/Satya_Sai_Portfolio.io/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Satya_Sai_Portfolio.io/index.html",
     "main.6dc37a77.css.map": "/Satya_Sai_Portfolio.io/static/css/main.6dc37a77.css.map",
-    "main.e9caad0e.js.map": "/Satya_Sai_Portfolio.io/static/js/main.e9caad0e.js.map"
+    "main.b525b029.js.map": "/Satya_Sai_Portfolio.io/static/js/main.b525b029.js.map"
   },
   "entrypoints": [
     "static/css/main.6dc37a77.css",
-    "static/js/main.e9caad0e.js"
+    "static/js/main.b525b029.js"
   ]
 }
