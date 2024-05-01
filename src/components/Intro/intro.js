@@ -3,7 +3,7 @@ import './intro.css';
 import { Link } from "react-scroll";
 import btnImg from '../../assets/hireMe.png';
 import bg from '../../assets/bg.jpg';
-import resume from '../../assets/satya_sai_resume.pdf';
+import resume from '../../assets/Satya_Sai_Resume.pdf';
 
 
 const downloadResume = () => {
