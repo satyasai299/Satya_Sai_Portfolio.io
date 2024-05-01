@@ -1,9 +1,10 @@
 import React from "react";
 import './skills.css';
-import SAP from '../../assets/SAP.png'
-import UIDesign from '../../assets/uiDesign.png'
-import WebDesign from '../../assets/webDesign.png'
-import AppDesign from '../../assets/appDesign.png'
+import SAP from '../../assets/SAP.png';
+import UIDesign from '../../assets/uiDesign.png';
+import WebDesign from '../../assets/webDesign.png';
+import AppDesign from '../../assets/appDesign.png';
+import programming from '../../assets/programming.png'
 
 const Skills = () => {
     return (
@@ -11,13 +12,21 @@ const Skills = () => {
         <span className="skillTitle">What I do</span>
         <span className="skillDesc">I am a skilled and passionate full stack developer with experinece</span>
         <div className="skillBars">
-        <div className="skillBar">
+            <div className="skillBar">
+                <img src={programming} alt="Programming" className="skillBarImg" />
+                <div className="skillBarText">
+                    <h2>Full Stack Developer</h2>
+                    <p>Experienced Full Stack Developer proficient in C, Java, Python, C++, SAP ABAP, JavaScript, TypeScript, HTML, CSS, Node.js, JSON, XML, React.js, AngularJS, AJAX, jQuery, SAP UI5, SAP Fiori, Servlets, JDBC, Spring Boot, SQL, PL/SQL, and adept at integrating SAP modules for enterprise-level solutions.</p>
+                </div>
+            </div>
+
+            {/* <div className="skillBar">
                 <img src={SAP} alt="SAP" className="skillBarImg" />
                 <div className="skillBarText">
                     <h2>SAP Full Stack Developer</h2>
                     <p>As an SAP full stack developer, I adeptly leverage my expertise in both front-end and back-end technologies to design, develop, and implement robust solutions that streamline business processes, enhance user experience, and drive operational efficiency within the SAP ecosystem.</p>
                 </div>
-            </div>
+            </div> */}
 
             <div className="skillBar">
                 <img src={UIDesign} alt="UIDesign" className="skillBarImg" />

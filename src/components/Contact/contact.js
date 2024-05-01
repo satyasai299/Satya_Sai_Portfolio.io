@@ -1,4 +1,6 @@
 import React, { useRef } from "react";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './contact.css';
 import Clifton from '../../assets/clifton-logo.jpg';
 import Atos from '../../assets/Atos.png';
@@ -14,6 +16,19 @@ const Contact = () => {
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
+
+        // Perform basic validation
+        const name = form.current.your_name.value.trim();
+        const email = form.current.your_email.value.trim();
+        const message = form.current.message.value.trim();
+
+        if (!name || !email || !message) {
+          toast.error('Please fill out all required fields.', {
+            position: "bottom-center",
+            className: "toast_message_error",
+          });
+            return;
+        }
     
         emailjs
           .sendForm('service_1l8it6c', 'template_44n3x4r', form.current, {
@@ -26,6 +41,10 @@ const Contact = () => {
               alert('Email sent!');
             },
             (error) => {
+              toast.error('Failed to send email. Please try again later.', {
+                position: "bottom-center",
+                className: "toast_message_error",
+              });
               console.log('FAILED...', error.text);
             },
           );
@@ -60,6 +79,7 @@ const Contact = () => {
                         <img src={TwitterIcon} alt="Twitter" className="link" />
                     </div>
                 </form>
+                <ToastContainer />
               </div>
         </section>
     )

@@ -86,3 +86,12 @@
     width: 3rem;
     margin:  0 0.75rem;
 }
+
+.toast_message_error {
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+}
